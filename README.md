@@ -1,8 +1,6 @@
-# RESPONSIVE WEBSITE FOR AN AUTHOR AND TV SCRIPT WRITER
+# Responsive Wesbite for an Author and TV Script Writer
 
-Here is a link to the live version:
-
-http://www.susanne-fuelscher.de/
+Link to the live version: http://www.susanne-fuelscher.de/
 
 ## Description
 
@@ -10,10 +8,10 @@ Responsive WordPress theme with Bootstrap
 
 ## Resources
 
-* Bootstrap
-* JavaScript
-* PHP
-* WordPress
+* Bootstrap: http://getbootstrap.com/
+* JavaScript https://developer.mozilla.org/en-US/docs/Web/JavaScript
+* PHP 
+* WordPress https://wordpress.com/
 
 ## Questions?
 
