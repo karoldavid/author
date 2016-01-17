@@ -1,4 +1,4 @@
-# Responsive Wesbite for an Author and TV Script Writer
+# Responsive Website for an Author & TV Script Writer
 
 Link to the live version: http://www.susanne-fuelscher.de/
 
@@ -15,4 +15,4 @@ Responsive WordPress theme with Bootstrap
 
 ## Questions?
 
-Please email me at k.zysk@zoho.com
+Email me at k.zysk@zoho.com
